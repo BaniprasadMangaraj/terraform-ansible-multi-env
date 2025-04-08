@@ -1,0 +1,8 @@
+[servers]
+server1 ansible_host=3.250.21.2
+server1 ansible_user=ubuntu
+
+[servers:vars]
+ansible_user=ubuntu
+ansible_ssh_private_key_file=terraform\terra-ansible-multienv-key
+ansible_python_interpreter=/usr/bin/python3

@@ -1,0 +1,7 @@
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/terra-ansible-multienv-key
+terraform/.terraform/modules/modules.json
+terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/5.93.0/windows_amd64/terraform-provider-aws_v5.93.0_x5.exe
+terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/5.93.0/windows_amd64/LICENSE.txt
